@@ -1,0 +1,47 @@
+.name {font-weight: bolder;}
+#blog .bloged {width: 40%;margin: 2%;padding: 2%;}
+#blog .bloged:hover {border: 1px solid #309255}
+#blog .bloged nav:first-child {width: 100%;height: 200px;}
+#blog .bloged .detail img {width: 70px;height: 70p;border-radius: 50%;}
+#blog .bloged .cg,.bloged .name {line-height: 4;margin: 0 7%}
+#blog .bloged .readm a {padding: 5%;background-color:#e7f8ee;border-radius: 10px}
+#blog .bloged .readm a:hover {background-color: #309255;color: white;font-weight: bold;}
+.dots {width: 50%;margin: 5% auto;overflow: hidden;height: 82px;}
+.dots a{font-size: 1.5rem;font-weight: bolder;height: 100%;width: 100%;}
+.dots p {border-radius: 50%;text-align: center;margin: 2%;border: 1px solid #309255;padding: 2%;height: 30px;width: 30px;}
+.dots p:hover {background: #309255;}
+.dots p:hover a {color: white!important;transform: scale(1.2);}
+/* Courses  css*/
+.table {width: 100%;padding: 2%;background-color: #e7f8ee;}
+.table a {width: 120px;height: 25px;background-color:white;padding: 2%;margin: 2%;border-radius: 15px;border: 1px solid #309255;line-height: 1.5;text-align: center;}
+.table a:hover {background-color:#309255;}
+.table p:first-child {width: 60%}
+.cours .ajax-s {width: 40%;}
+.cours .input {margin: 7% 0;}
+.cours .bloged .im {height:238px!important; }
+.cours progress {width: 100%;border-radius: 0;height: 5px;background-color:#309255; }
+.cours .option {top: 5%;right: 3%;z-index: 9999;}
+.cours .opt-btn {padding: 20%;background-color: white;border-radius: 50%;text-align: center;background: white;width: 27px!important;height: 29px!important;margin: auto;}
+.cours .opt-btn p {width: 7px;height: 7px;border-radius: 50%;background-color:#309255;margin: 34% 1%}
+.cours .opt {background-color: rgb(11 179 74 / 61%);border-radius: 15px;right: 0;width: 182px;}
+.cours .opt li {padding:4%;width: 100%}
+.cours .opt li a {color: white!important;}
+#main .sidecours { width: 45%;margin: 3%}
+#cours .nvm {height: 400px}
+#cours .t img {width: 70px;height: 70x;border-radius: 50%;}
+#cours .t .name {line-height:4 ;margin:2%}
+#cours .circle-shape {width: 100px;height: 90px;}
+#cours .circle-play { position: absolute;left: 40%;top: 40%;}
+#cours .play-vid {top: 25%;left: 42%;color: white!important;}
+#cours .brand {position: absolute;bottom: 5%;left: 5%;}
+#cours .brand a {padding: 24%;background-color: #d67f13;color: white;font-weight: bold;cursor: text;}
+#cours .table a {border-radius: 8px!important;font-weight: bolder;}
+#cours .table a:hover {color: white!important;}
+.hr {background-color:#e7f8ee;padding: 2%;border: 1px solid #309255;border-radius: 10px}
+.hr li {padding: 8% 7%;border-bottom: 1px solid #351b1b1f;margin: 2%}
+.hr li .d {font-weight: lighter;font-family: gortida-regular}
+.sh a {color: black;padding: 5%;border: 1px solid #309255;margin: 2%;border-radius: 15px;font-size: 1.3rem}
+.sh a:hover {background-color:#309255;color: white}
+
+/* Forum */
+.detaill {height: 100%!important;}

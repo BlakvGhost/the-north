@@ -1,0 +1,15 @@
+.sign {border: 1px solid var(--pure);border-radius: 15px;padding: 5%}
+.sign .signav {;background-color: var(--leger);border-radius: 15px;padding: 2%;width: 50%;z-index: 2}
+.sign .signav .shape26 {height: 300px;width: 300px;background-color: var(--pure);border-radius: 50%;position: absolute;left: 25%;z-index: -1;}
+.sign .signav .shape26 img {position: absolute;left: 12%;top: 20%}
+.sign .signfm {padding: 8%;text-align: center;width: 50%}
+.sign .signfm input,.sign button {width: 94%;height: 60px;border: 1px solid var(--leger);padding: 1%;margin: 2%;border-radius: 15px;font-family: gortida-regular}
+.sign .signfm img {left:62%;bottom: -51%;}
+.sign .signfm button {font-size: 1.2rem!important;}
+.sign .signfm input:focus,.vi:hover {border: 1px solid var(--pure)}
+.sign .vi i {font-size: 1.2rem;margin: auto;color: var(--pure)}
+.sign .vi {border: 1px solid var(--leger);margin: 2%;border-radius: 15px;padding: 0 1%}
+.sign .vi input {margin: 0;border: none;}
+.sign .vi input:focus {border: none;}
+.sign .box {opacity: 0;transition: 5s cubic-bezier(0.46, 1.63, 1, 1);}
+.sign .signfm input,.signfm label,.sign button{-webkit-animation-duration: 1s;animation-duration: 1s;-webkit-animation-fill-mode: both;animation-fill-mode: both;animation-name: fadeInUp; }

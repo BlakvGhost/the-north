@@ -1,0 +1,102 @@
+@media (max-width: 992px) {
+  header .h2 .under-h2 {margin: 4%;height: 100px;padding: 3%;}
+  header .menu nav {background-color: black;height: 14px;width: 65px;}
+  header .panel {width: 80%;height: 100%;background-color: white;color: black;top: 0;left: 0;z-index: 9;font-family: gortida-medium!important}
+  header .panel a {color: black!important;}
+  header .panel .hct {width: 65%;margin: 35% auto 2% auto;text-align: center;}
+  header .panel .hct p a{font-size: 2rem;}
+  header .panel .login {width: 90%;margin: auto;text-align: center;}
+  header .panel .login button {width: 40%;height: 100px;margin: 2% 4%;border: 1px solid var(--pure);border-radius: 10px;}
+  header .panel .login a {font-size: 2.5rem;font-weight: bolder;}
+  header .panel .login button:hover {background-color: var(--pure);}
+  header .panel .div-ul {margin: 10% 0}
+  header .panel .div-ul li a {font-weight: bolder;font-size: 2.7rem;}
+  header .panel .div-ul li {padding: 8%;border-top: 1px solid var(--button)}
+  header .panel .div-ul li:last-child {border-bottom:1px solid var(--button) }
+  header .panel .hrs a{font-weight: bolder;font-size: 3rem;margin: 2%;}
+  header .panel .close {right: 5%}
+  header .prh {padding: 2%!important;margin: 0!important;}
+  header .ttw {display: block;}
+  header .roed {display: none;}
+  header .imv {top: 35%!important;height: initial!important;}
+  header .lst {font-size: 4rem!important;margin: 2%!important}
+  header .lst .lsti {margin: 10% auto;}
+  header .h4 {padding: 7%!important;font-size: 2rem}
+  header .info-ch .middle {z-index: -1}
+.index .h4 p:last-child a {padding: 5%;font-size: 2.4rem}
+  .index .sh3 {top:auto!important;bottom: 0;right: 1%!important}
+  .index .bg1 {top: 40%!important}
+  .index .bg2 {top: 80%!important}
+  .index .sh7 {display: none;}
+  #main .sideright {margin: 0!important}
+  #main {width: 89%;margin: auto;flex-direction: column;}
+  #main .sidecours {width: 100%;font-size: 3rem;margin: 4% 0}
+  #main .nms {font-size: 2rem}
+  #main .ind1 {overflow: hidden;}
+  #main .in-s {flex-direction: column;}
+  #main .in-s h1 {font-size: 3rem}
+  #main .in-s>div { width: 80%!important;margin: auto;text-align: center;}
+  #main .table {width: 94%;margin:5% auto;flex-direction: column-reverse;}
+  #main .sideleft {width: 100%;}
+  #main .sideleft li a {font-size: 2rem!important}
+  #main .sideleft .list2 img, .comment .under img {width: 156px;height: 157px;}
+  #main .sideleft .list2 li {max-height: none;}
+  #main .sideleft .pc h2 {font-size: 3rem;}
+  #main .sideleft .list1 {padding: 0;font-size: 2rem}
+  .mainblog {flex-direction: column-reverse!important;}
+  .whls {padding: 4%}
+  .whls>p,.whls form {width: 100%!important;overflow: hidden;}
+  .cours .opt-btn {height: 55px!important;width: 55px!important}
+  .cours .opt {width: 270px;}
+  .ajax-s .input {height: 95px!important;font-size: 2rem;width: 100%!important}
+  .ajax-s input {font-size: 3rem}
+  #main .table a {padding: 3% 10%;font-size: 3rem;width: initial;height: initial;}
+  #main .prev,.next {display: none;}
+  #blog article {width: 100%!important;margin: 3% auto!important;padding: 4% 2%!important;font-size: 2rem;height: 1050px;}
+  #blog article p:first-child { }
+  #blog article>nav {height: 400px!important}
+  #blog article .detail img,.nms img,.info img {width: 130px!important;height: 124px!important}
+  .index .ot {margin: 10%!important}
+  .index .ot a {padding: 5%!important;font-size: 3rem}
+  .lg-d {flex-direction: column;}
+  .lg-d>div {width: 100%!important;font-size: 2rem}
+  .index .sec---lg .if {width: 70%;margin: 2% auto;text-align: center;float: none;}
+  .index .sec---lg .if a,.index .ifx a {font-size: 2rem}
+  .underlsnw h1,.underlsnw h2 {font-size: 3rem!important}
+  .index .ifx {margin: 3% auto;}
+  .tb p {width: 100%!important;overflow: hidden;}
+  .sh a {font-size: 5rem}
+  .hr li {padding: 8% 2%}
+  .info {flex-direction: column;}
+  .info>p {width: 90%!important;font-size: 2rem;justify-content: space-between;}
+  #main .sideright .info .name {line-height: 3}
+  .tags,.share {flex-direction: column;font-size: 3rem}
+  .tags a,.share a {display: inline-block;}
+  .share h3 {width: 100%}
+  .share a {font-size: 5rem!important}
+  #main .under {font-size: 2rem;flex-direction: column;}
+  #main .comment .under nav:last-child {width: 50%!important;margin: 8% auto;}
+  #main .answer input {height: 100px!important;font-size: 2rem}
+  #main .answer textarea{font-size: 2rem}
+
+  footer .footer {flex-direction: column;}
+  footer .footer li {margin: 0!important}
+  footer .footer i {font-size: 3rem}
+  footer .sbp form input {height: 85px;font-size: 2.5rem}
+  footer .lst-f {flex-direction: column;text-align: center;}
+  section.flex.justify-sb.footer>div {width: 100%!important}
+  .sign {flex-direction: column;}
+  .signav,.signfm {width: 80%!important;margin: auto;}
+  .signfm h1 { font-size: 3rem}
+  .signfm input {height: 120px!important;font-size: 2rem;text-overflow: ellipsis;margin: 4% 1%}
+  .sign .signfm input[type="submit"] {padding: 0}
+  .sign .signfm img {left: 38%;bottom: -23%}
+  .brx {height: 100%!important}
+  .error {flex-direction: column;}
+  .error>div {width: 100%!important;height: 100%;padding: 0 3%;margin: 8% 0}
+  .error .fa-4x {font-size: 5rem}
+  .error h2 {font-size: 3rem}
+  .error button {padding: 5%}
+  .error button a {font-size: 4rem}
+
+}

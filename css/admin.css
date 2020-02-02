@@ -1,0 +1,36 @@
+#admin {width: 100%;height: 70px;background-color: var(--button); }
+#admin .ad_l img {height: 50px;height: 50px;border-radius: 50%;}
+#admin .ad_l .forz {height: 30px;}
+#admin .menu {border-radius: 50%;background-color: white;height: 50px;width: 50px;}
+#admin .menu nav {background-color: var(--pure);height: 11px!important;width: 11px!important;margin: auto;}
+#admin .notif-under {width: 110px;font-family: gortida-medium!important;}
+#admin .notif-under .undr {background: var(--leger);padding: 5%;right: 0;width: 130%;margin: 2%;text-align: left;display: none;}
+#admin .undr li {padding: 2%}
+#admin .undr .nm {text-decoration: underline;}
+#admin .undr a ,.undr li {color: black;font-size: 15px;cursor: pointer;}
+#adm .sideadmin {background-color: var(--leger);width: 26%;}
+#adm .slft {width: 25%}
+#adm .slft li {margin:22% 17%;padding: 2%;text-align: center;border: 1px solid #8a9a91;border-radius: 15px;}
+#adm .srgt li {height: 40px;padding: 5%;margin: 5%;border-radius: 15px;border: 1px solid white;background-color: #9bb9a7;}
+#adm .srgt li a {font-size: 1.5rem;line-height: 1.5}
+#adm .sideadmin li:hover {background: white;border:1px solid var(--pure);}
+#adm .sideadmin li:hover a {color: var(--pure);}
+#adm .choix label {display: flex;padding: 2%;background-color: var(--leger);border-radius: 15px;margin: 2%;font-size: 1.3rem}
+#adm .choix input {width: 20px;height: 17px;}
+#adm .admain {padding: 2%}
+#adm .bloged {width: 22%}
+#adm .bloged .readm a {background-color: #839c9c;margin: 3%}
+#adm .editor {width: 60%;margin: 2%}
+#adm .editor textarea {resize: none;border-radius: 15px;border: 1px solid var(--lp);width: 90%;height: 450px;padding: 1% 4% }
+#adm .switch {width: 30px;height: 20px;margin: 4%}
+.on {background: transparent url(../img/on.png)no-repeat center top;}
+.off {background: transparent url(../img/switch-off.png)no-repeat center top;}
+#adm .sett {width: 35%;margin: 2%}
+#adm .dropzon {width: 40%;margin: auto;}
+#adm .cover {border: 1px solid var(--lp);border-radius: 10px;overflow: hidden; }
+#adm .dropzone {border: none;}
+#adm .unstt {padding: 2%}
+#adm .entt {margin: 0;padding: 1%;background-color: var(--leger);font-size: 1.2rem;}
+#adm .unstt>div p:first-child {width: 50%;}
+#adm .unstt input[type='text'] {width: 70%;height: 30px;border-radius: 5px;margin: 2%}
+#adm .unstt .minp {font-size: 1.5rem;margin: auto;}
